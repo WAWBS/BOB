@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 { while(1)
-printf("���Ѽ�SB");
+printf("Áõ¼Ñ¼ÑSB");
 if(0)
-printf("���ѼѴ�SB"); 
+printf("Áõ¼Ñ¼Ñ´óSB"); 
 return 0; 
 }
