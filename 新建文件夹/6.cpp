@@ -1,4 +1,4 @@
-//¼ÆËãÊäÈë½ð¶îËùÐèµÄ20¡¢10¡¢5¡¢1Ãæ¶îµÄ×îÉÙÃÀÔªÊý 
+//è®¡ç®—è¾“å…¥é‡‘é¢æ‰€éœ€çš„20ã€10ã€5ã€1é¢é¢çš„æœ€å°‘ç¾Žå…ƒæ•° 
 #include<stdio.h>
 int main()
 {int x,a,b,c,d;
