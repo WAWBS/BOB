@@ -1,4 +1,4 @@
-//¼ÆËãµÚÒ»¡¢¶ş¡¢Èı¸öÔÂ»¹¿îºóÊ£ÓàµÄ´û¿î½ğ¶î
+//è®¡ç®—ç¬¬ä¸€ã€äºŒã€ä¸‰ä¸ªæœˆè¿˜æ¬¾åå‰©ä½™çš„è´·æ¬¾é‡‘é¢
 #include<stdio.h>
 int main()
 {float loan,rate,payment;
@@ -8,12 +8,12 @@ int main()
  printf("Enter interest rate: ");
  scanf("%f",&rate);
  printf("Enter monthly payment: ");
- scanf("%f",&payment);                       //ÊäÈë×Ü´û¿î½ğ¶î¡¢ÀûÂÊ¡¢ÔÂ»¹¿î¶î
+ scanf("%f",&payment);                       //è¾“å…¥æ€»è´·æ¬¾é‡‘é¢ã€åˆ©ç‡ã€æœˆè¿˜æ¬¾é¢
  a=loan-payment+loan*rate/1200;
  printf("Balance remaining after first payment:%.2f\n",a);
  b=a-payment+a*rate/1200;
  printf("Balance remaining after second payment:%.2f\n",b);
  c=b-payment+b*rate/1200;
- printf("Balance remaining after third payment:%.2f\n",c);//¼ÆËãÃ¿ÔÂÊ£Óà´û¿î¶î 
+ printf("Balance remaining after third payment:%.2f\n",c);//è®¡ç®—æ¯æœˆå‰©ä½™è´·æ¬¾é¢ 
  return 0;
   } 
