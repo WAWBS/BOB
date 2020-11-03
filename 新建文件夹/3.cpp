@@ -1,4 +1,4 @@
-//计算增加5%后的金额 
+//录脝脣茫脭枚录脫5%潞贸碌脛陆冒露卯 
 #include<stdio.h>
 int main(void) 
 {float amount,fianl;
