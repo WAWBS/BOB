@@ -2,7 +2,7 @@
 #define p           3.14159
 int main(void)
 {float r ,v ;
-printf("ÇëÊäÈë°ë¾¶£º"); 
+printf("Ã‡Ã«ÃŠÃ¤ÃˆÃ«Â°Ã«Â¾Â¶Â£Âº"); 
 scanf("%f",&r);
 v=p*(4.0f/3.0f)*r*r*r;
 printf("%f",v);
